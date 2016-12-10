@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AtmEmpresaConsultoria</string>
+    <string name="sobre_empresa">Sobre a empresa</string>
+    <string name="title_activity_empresa">EmpresaActivity</string>
+    <string name="large_text">
+        "Referência no mercado, a Atm  oferece aos seus clientes soluções completas em consultoria imobiliária. Com 81 anos de história, a empresa é especialista em todos os segmentos, prestando assessoria a incorporadores, compradores e vendedores de imóveis novos e prontos. Suas atividades englobam todos os padrões, com uma marca específica para atender empreendimentos econômicos, a HabitCasa. Em parceria com o Itaú, a joint venture CrediPronto oferece financiamento e consórcio imobiliário. Devido à sua tradição e liderança no mercado, a Atm é top of mind do setor imobiliário paulistano segundo pesquisa do IBOPE Inteligência. A companhia também lidera em número de acessos em seu site comparada a outras empresas do setor.
+
+Sua missão é atender seus clientes com excelência, transparência e segurança para atingir e superar expectativas, sempre buscando o melhor. Em evolução constante, a Atm faz com que a qualidade de seus serviços e a satisfação de seus clientes seja garantida. Por isso, ela utiliza sua experiência no mercado como base para superar novos desafios, mantendo-se preparada para o futuro do setor, sempre à frente de seu tempo.
+
+Presente nos principais estados do país, a companhia atua em regiões que concentram mais de 80% do PIB brasileiro: São Paulo, Rio de Janeiro, Minas Gerais, Espírito Santo, Rio Grande do Sul, Paraná, Santa Catarina, Bahia e Ceará – além do Distrito Federal."
+    </string>
+    <string name="action_settings">Settings</string>
+</resources>
